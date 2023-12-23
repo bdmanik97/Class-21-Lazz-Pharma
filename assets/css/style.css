@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.bg-custom{
+    background-color: greenyellow;
+}
+
+.img-custom1{
+    border: 1px solid rebeccapurple;
+    border-radius: 5px;
+}
+
+.img-custom{
+    position: absolute;
+    margin-top: 30px;
+    height: 50px;
+    width: 180px;
+}
+
+.custom-ul{
+    font-size: 20px;
+}
+
+.custom-menu{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+
+.bg-custom-marque{
+    font-size: 20px;
+    line-height: 45px;
+    background-color: greenyellow;
+}
+
+.ft-background{
+    height: 350px;
+    background-color: green;
+}
+    
+span{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+    
+.footer-nav {
+    text-decoration: none;
+    display: block;
+    font-size: 23px; 
+}
+
+.height-custom{
+    margin-top: 50px;
+}
+
+.height-custom a{
+    color: white;
+}
+
+.social-icon{
+    margin-top: 15px;
+}
+
+.social-icon a{
+    height: 80px;
+    width: 80px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 50%;
+}
+
+.icon-custom{
+    font-size: 30px;
+}
+
+.btn-custom-1{
+    margin-left: 75px;
+    height: 35px;
+    width: 100px;
+}
+
+.btn-custom{
+    margin-left: 60px;
+    height: 35px;
+    width: 130px;
+}
