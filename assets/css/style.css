@@ -88,3 +88,64 @@ span{
     height: 35px;
     width: 130px;
 }
+
+.head-custom{
+    margin-top: 20px;
+    margin-left: 520px;
+}
+
+.content-custom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-custom-p{
+    text-align: justify;
+}
+
+.row-custom{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.card{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.container-flex{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.img-custom{
+    border: 1px solid red;
+}
+
+.gallery-button{
+    margin-bottom: 50px;
+}
+
+.section-custom{
+    margin-bottom: 300px;
+}
+
+.section-body{
+    margin-left: 130px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.offer{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 500px;
+}
